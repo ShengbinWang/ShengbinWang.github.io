@@ -1,28 +1,34 @@
 # main links links
 main:
   - title: "CV/Bio"
-  url: /files/shengbinwang_cv.pdf
+    url: /files/shengbinwang_cv.pdf
 
   - title: "Publications"
-  url: /publications/
+    url: /publications/
+
+  # - title: "CV/Bio"
+  # url: /files/shengbinwang_cv.pdf
+
+  # - title: "Publications"
+  # url: /publications/
 
   # - title: "Awards & Honors"
   #   url: /awards/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
-    
+  #   url: /teaching/
+
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
   # - title: "Blogs"
   # url: /year-archive/
-    
+
   - title: "Contact"
-    url: /contact/  
-    
+    url: /contact/
+
   # - title: "Guide"
     # url: /markdown/
