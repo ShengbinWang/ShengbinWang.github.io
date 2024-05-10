@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shengbin Wang"
 title_separator          : "-"
 name                     : &name "Shengbin Wang"
-description              : &description "Ph.D. student, Mechanical Engineering Department, University of Houston"
+description              : &description "Ph.D. , Analytics Engineer, Data Scientist, Software Development Engineer"
 url                      : https://shengbinwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShengbinWang/shengbinwang.github.io"
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Shengbin Wang"
   avatar           : "https://shengbinwang.github.io/files/shengbinwang2.jpg?raw=true"
-  bio              : "Ph.D. student, Mechanical Engineering Department, University of Houston"
+  bio              : "Ph.D. , Analytics Engineer, Data Scientist, Software Development Engineer"
   location         : "Houston, Texas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=uhlT-6UAAAAJ&hl=en&oi=sra"
-  email            : "swang62@uh.edu"
+  email            : "sambin_wang@yahoo.com"
   uri              :
   bitbucket        :
   codepen          :
